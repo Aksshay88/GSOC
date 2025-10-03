@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/0pfJFXcS/GSo-C-Vertical-removebg-preview.png" alt="GSoC 2025 Logo" width="300"/>
+</p>
+
 # Google Summer of Code (GSOC) Journey
 
 This repository documents my journey through the Google Summer of Code program. It includes my proposals, and in the future, it will also contain my work and contributions to the projects I participate in.
