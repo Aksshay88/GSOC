@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://summerofcode.withgoogle.com/assets/images/logo.svg" alt="Google Summer of Code logo" width="400"/>
-</div>
-
 # Google Summer of Code (GSOC) Journey
 
 This repository documents my journey through the Google Summer of Code program. It includes my proposals, and in the future, it will also contain my work and contributions to the projects I participate in.
@@ -9,7 +5,6 @@ This repository documents my journey through the Google Summer of Code program. 
 ## What is Google Summer of Code?
 
 Google Summer of Code (GSoC) is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 10-12 week programming project during their break from school.
-
 
 You can learn more about the program on the [official GSoC website](https://summerofcode.withgoogle.com/).
 
@@ -58,5 +53,5 @@ graph TD
 
 This repository contains my proposals for GSoC.
 
-*   **GSoC 2024:** [OpenVINO Proposal](./GSOC-2024/GSOC_openvino-proposal.pdf)
-*   **GSoC 2025:** [AsyncAPI Proposal](./GSOC-2025/GSOC_Asyncapi-proposal.pdf)
+- **GSoC 2024:** [OpenVINO Proposal](./GSOC-2024/GSOC_openvino-proposal.pdf)
+- **GSoC 2025:** [AsyncAPI Proposal](./GSOC-2025/GSOC_Asyncapi-proposal.pdf)
